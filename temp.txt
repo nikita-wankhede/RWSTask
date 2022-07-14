@@ -1,0 +1,8 @@
+Maven is use to building code, to manage numerous dependencies.If we nee dto upgrade 
+version it is easier using maven.we have to define dependencies in pom.xml file it will
+automatically download.
+
+What is maven?
+Build Automation tool,
+project management tool,
+handles complete build process.
